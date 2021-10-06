@@ -1,0 +1,7 @@
+Segue alguns links de comandos basicos:
+
+https://gist.github.com/leocomelli/2545add34e4fec21ec16 
+
+https://www.codigofonte.com.br/artigos/top-25-comandos-do-git
+
+https://chuva.net.br/2014/01/git-comandos-uteis-no-dia-a-dia/
